@@ -1,0 +1,5 @@
+submission,kaggle_version_id,notebook_version,public_weighted_auc,private_weighted_auc,notebook
+Single model submission (fold 1),267368430,3,0.72054,0.70896,submission_fold1_v267368430.ipynb
+Single model submission (fold 9),267447564,7,0.71188,0.70768,submission_fold9_v267447564.ipynb
+Submission version 3,267509129,3,0.71188,0.70768,submission_v3_v267509129.ipynb
+Final selected submission (version 4),267878101,4,0.71204,0.70862,submission_v4_v267878101.ipynb
